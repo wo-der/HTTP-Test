@@ -1,1 +1,1 @@
-print("Hello")
+workspace.Baseplate.Name = "Hello"
